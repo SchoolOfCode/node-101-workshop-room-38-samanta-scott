@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-room-38-samanta-scott/issues"
   },
-  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-room-38-samanta-scott#readme"
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-room-38-samanta-scott#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
